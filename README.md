@@ -4,7 +4,7 @@
 
 Made with ❤️ by Marko
 
-**Live preview: [https://wc-artistic.netlify.app/](https://wc-artistic.netlify.app/)**
+**Live preview: [https://marctistic.netlify.app//)**
 
 
 
