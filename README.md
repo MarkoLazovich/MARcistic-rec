@@ -1,8 +1,8 @@
 ![](./readmeImg/banner.png)
 
-# Artistic 📸
+# Marcrtistic 📸
 
-Made with ❤️ by Marko
+Made by Marko
 
 **Live preview: [https://marctistic.netlify.app//)**
 
